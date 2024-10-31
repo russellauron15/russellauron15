@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 - 🔭 I’m currently learning Web Design and Development at Northern Alberta Institute of Technology
-- 🏅🏅MY SKILLS UI/UX HTML5 CSS JAVASCRIPT PHP SQL REACT🏅🏅
+- 🏅🏅MY SKILLS -UI/UX, HTML5, CSS, JAVASCRIPT, PHP, SQL, REACT🏅🏅
 - 👨‍🎨I LOVE DESIGN! I WILL BE A DESIGNER! When I first started my studies I already knew that this is what I want as a career .
 -  Outside of school I cook a lot, it was my first hobby and it also became my profession.👨‍🍳👨‍🍳
 - 🎮🎮I play video games too! My top 5 games of all time are MGS Snake Eater, God of War, Red Dead Redemption 2, Elden Ring and The Witcher 3.🎮🎮
