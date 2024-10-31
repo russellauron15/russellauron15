@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hello there ⭐🧔⚔️
 
 - 🔭 I’m currently learning Web Design and Development at Northern Alberta Institute of Technology
 - 🏅🏅MY SKILLS -UI/UX, HTML5, CSS, JAVASCRIPT, PHP, SQL, REACT🏅🏅
